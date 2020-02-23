@@ -1,0 +1,17 @@
+header {
+  background-color: black;
+}
+
+h1 {
+  font-family: 'Pirata One';
+  letter-spacing: 0.05em;
+  color: #000;
+}
+
+h1 + p {
+  color: #000 !important;
+}
+
+.nav-item a {
+  color: #fff !important;
+}
